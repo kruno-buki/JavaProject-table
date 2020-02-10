@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"hr.table.vsite.kruno","c":"Tablica","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"hr.table.vsite.kruno","c":"Tablica","l":"Tablica()","url":"%3Cinit%3E()"}]
